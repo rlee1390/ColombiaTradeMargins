@@ -3,3 +3,9 @@ As this paper is in the process of being prepared for submission, there will (ho
 
 This project makes use of proprietary data; therefore the initial data can not be made available. The posting of the code will 
 hopefully provide some level of transparency.
+
+Order of Operations:
+
+1) HS6 ConcordanceHS2007-HS2012.do
+        This do file creates product concordances over time. 
+        
